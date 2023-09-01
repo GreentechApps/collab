@@ -1,9 +1,9 @@
-baseURL = "http://nabil6391.github.io/nabilmh.hugo/"
+baseURL = "http://greentechapps.com/collab/"
 languageCode = "en-us"
-title = "Your Site Titles"
+title = "Greentech Apps Foundation"
 theme = "hugobook"  # The name of the theme you're using
 
-googleAnalytics = "G-0Z1CB301MH"
+googleAnalytics = "G-23KZ4Q3E0M"
 
 # (Optional) If you provide a Disqus shortname, comments will be enabled on
 # all pages.
@@ -36,7 +36,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'light'
+  BookTheme = 'auto'
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
@@ -62,7 +62,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  # BookRepo = 'https://github.com/alex-shpak/hugo-book'
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
@@ -74,7 +74,7 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/main/exampleSite'
+  # BookEditPath = 'edit/main/exampleSite'
 
   # Configure the date format used on the pages
   # - In git information
