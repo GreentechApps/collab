@@ -7,7 +7,7 @@ googleAnalytics = "G-23KZ4Q3E0M"
 
 # (Optional) If you provide a Disqus shortname, comments will be enabled on
 # all pages.
-disqusShortname = "my-site"
+disqusShortname = "resources.gtaf.org"
 
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = true
@@ -23,13 +23,13 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
+  name = "Website"
+  url = "https://gtaf.org"
   weight = 10
 
 [[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
+  name = "Donate"
+  url = "https://gtaf.org/donate"
   weight = 20
 
 
